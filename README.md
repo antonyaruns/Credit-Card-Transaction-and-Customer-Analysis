@@ -80,7 +80,7 @@ By conducting detailed analyses of transaction data and customer demographics, t
 
 Credit Card Transaction Analysis: 
 
-![Credit Card Analysis-page-001](https://github.com/antonyaruns/Credit-Card-Transaction-and-Customer-Analysis/assets/125898266/3c986565-8430-463b-a181-cac1f4cbfaf5)
+![Credit Card Analysis-page-001](https://github.com/antonyaruns/Credit-Card-Transaction-and-Customer-Analysis/assets/125898266/b483e6d4-ef88-4377-aa5f-c4e26e305596)
 
 Credit Card Customer Analysis: 
 
